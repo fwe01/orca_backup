@@ -8,3 +8,4 @@ cd ~/Documents/orca_backup/
 
 git add .
 git commit -am "backup $(date)"
+git push
