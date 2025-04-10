@@ -43,7 +43,7 @@
         "50"
     ],
     "version": "2.3.0.3",
-    "z_hop_types": [
-        "Spiral Lift"
+    "z_hop": [
+        "0"
     ]
 }
