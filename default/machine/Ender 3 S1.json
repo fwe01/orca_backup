@@ -1,0 +1,49 @@
+{
+    "deretraction_speed": [
+        "50"
+    ],
+    "fan_kickstart": "3",
+    "fan_speedup_time": "4",
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_acceleration_e": [
+        "3000",
+        "5000"
+    ],
+    "machine_max_acceleration_extruding": [
+        "2500",
+        "20000"
+    ],
+    "machine_max_acceleration_retracting": [
+        "3000",
+        "5000"
+    ],
+    "machine_max_acceleration_x": [
+        "2500",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "2500",
+        "20000"
+    ],
+    "machine_start_gcode": "START_PRINT BED_TEMP=[bed_temperature_initial_layer_single] EXTRUDER_TEMP=[nozzle_temperature_initial_layer]",
+    "name": "Ender 3 S1",
+    "print_host": "192.168.200.100:7125",
+    "printable_area": [
+        "0x0",
+        "235x0",
+        "235x235",
+        "0x235"
+    ],
+    "printable_height": "240",
+    "printer_settings_id": "Ender 3 S1",
+    "retraction_speed": [
+        "50"
+    ],
+    "version": "2.3.0.3",
+    "z_hop_types": [
+        "Spiral Lift"
+    ]
+}

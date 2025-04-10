@@ -1,0 +1,22 @@
+{
+    "compatible_printers": [
+        "MyKlipper 0.4 nozzle"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_settings_id": [
+        "SUNLU PLA+ 2.0 @Ender 3 S1"
+    ],
+    "from": "User",
+    "inherits": "SUNLU PLA+ 2.0 @System",
+    "is_custom_defined": "0",
+    "name": "SUNLU PLA+ 2.0 @Ender 3 S1",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "version": "2.3.0.3"
+}
