@@ -1,0 +1,16 @@
+{
+    "compatible_printers": [
+        "MyKlipper 0.4 nozzle"
+    ],
+    "filament_settings_id": [
+        "SUNLU PETG @Ender 3 S1"
+    ],
+    "from": "User",
+    "inherits": "SUNLU PETG @System",
+    "is_custom_defined": "0",
+    "name": "SUNLU PETG @Ender 3 S1",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "version": "2.3.0.3"
+}

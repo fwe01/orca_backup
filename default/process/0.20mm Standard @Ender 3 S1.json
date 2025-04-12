@@ -1,5 +1,6 @@
 {
     "bottom_shell_layers": "4",
+    "brim_type": "no_brim",
     "default_acceleration": "2000",
     "enable_support": "1",
     "from": "User",
