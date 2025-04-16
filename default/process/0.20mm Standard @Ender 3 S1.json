@@ -10,7 +10,8 @@
     "is_custom_defined": "0",
     "name": "0.20mm Standard @Ender 3 S1",
     "outer_wall_acceleration": "2000",
-    "outer_wall_speed": "100",
+    "outer_wall_line_width": "105%",
+    "outer_wall_speed": "80",
     "overhang_2_4_speed": "35",
     "overhang_3_4_speed": "24",
     "print_settings_id": "0.20mm Standard @Ender 3 S1",
@@ -18,12 +19,10 @@
     "skirt_height": "1",
     "skirt_loops": "3",
     "sparse_infill_pattern": "cubic",
-    "support_style": "tree_slim",
     "support_threshold_angle": "20",
-    "support_type": "tree(auto)",
     "top_shell_thickness": "0",
     "top_surface_acceleration": "2000",
     "travel_acceleration": "2500",
     "version": "2.3.0.3",
-    "wall_loops": "4"
+    "wall_loops": "8"
 }
