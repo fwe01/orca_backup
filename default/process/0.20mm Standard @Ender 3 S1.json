@@ -10,7 +10,6 @@
     "name": "0.20mm Standard @Ender 3 S1",
     "outer_wall_acceleration": "2000",
     "outer_wall_line_width": "105%",
-    "outer_wall_speed": "80",
     "overhang_2_4_speed": "35",
     "overhang_3_4_speed": "24",
     "print_settings_id": "0.20mm Standard @Ender 3 S1",
