@@ -20,7 +20,6 @@
     "support_threshold_angle": "20",
     "top_shell_thickness": "0",
     "top_surface_acceleration": "2000",
-    "top_surface_line_width": "105%",
     "travel_acceleration": "2500",
     "version": "2.3.0.3",
     "wall_loops": "8"
