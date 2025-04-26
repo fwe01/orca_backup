@@ -2,6 +2,8 @@
     "bottom_shell_layers": "4",
     "brim_type": "no_brim",
     "default_acceleration": "2000",
+    "elefant_foot_compensation": "0.1",
+    "elefant_foot_compensation_layers": "2",
     "enable_support": "1",
     "from": "User",
     "gap_infill_speed": "70",
@@ -24,6 +26,7 @@
     "skirt_loops": "3",
     "sparse_infill_pattern": "cubic",
     "sparse_infill_speed": "60",
+    "support_on_build_plate_only": "1",
     "support_speed": "80",
     "support_threshold_angle": "20",
     "top_shell_thickness": "0",
@@ -31,5 +34,5 @@
     "top_surface_speed": "50",
     "travel_acceleration": "2500",
     "version": "2.3.0.3",
-    "wall_loops": "8"
+    "wall_loops": "4"
 }
