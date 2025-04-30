@@ -5,6 +5,7 @@
     "from": "User",
     "gap_infill_speed": "70",
     "inherits": "0.20mm Standard @MyKlipper",
+    "initial_layer_infill_speed": "70",
     "inner_wall_acceleration": "2000",
     "inner_wall_speed": "150",
     "internal_solid_infill_speed": "150",
