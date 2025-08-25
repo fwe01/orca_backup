@@ -30,7 +30,7 @@
     ],
     "machine_start_gcode": "START_PRINT BED_TEMP=[bed_temperature_initial_layer_single] EXTRUDER_TEMP=[nozzle_temperature_initial_layer]",
     "name": "Ender 3 S1",
-    "print_host": "192.168.100.100:7125",
+    "print_host": "192.168.200.100:7125",
     "printable_area": [
         "0x0",
         "235x0",
