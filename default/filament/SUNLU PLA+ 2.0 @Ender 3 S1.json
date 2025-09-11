@@ -9,6 +9,9 @@
         "SUNLU PLA+ 2.0 @Ender 3 S1"
     ],
     "from": "User",
+    "full_fan_speed_layer": [
+        "4"
+    ],
     "inherits": "SUNLU PLA+ 2.0 @System",
     "is_custom_defined": "0",
     "name": "SUNLU PLA+ 2.0 @Ender 3 S1",
