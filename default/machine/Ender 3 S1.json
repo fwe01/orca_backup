@@ -33,9 +33,9 @@
     "print_host": "192.168.100.100:7125",
     "printable_area": [
         "0x0",
-        "235x0",
-        "235x235",
-        "0x235"
+        "220x0",
+        "220x220",
+        "0x220"
     ],
     "printable_height": "240",
     "printer_settings_id": "Ender 3 S1",
