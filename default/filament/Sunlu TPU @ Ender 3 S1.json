@@ -2,15 +2,42 @@
     "compatible_printers": [
         "MyKlipper 0.4 nozzle"
     ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "60"
+    ],
+    "fan_max_speed": [
+        "60"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_deretraction_speed": [
+        "50"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_retraction_speed": [
+        "50"
+    ],
     "filament_settings_id": [
         "Sunlu TPU @ Ender 3 S1"
     ],
     "from": "User",
+    "full_fan_speed_layer": [
+        "4"
+    ],
     "hot_plate_temp": [
-        "45"
+        "55"
     ],
     "hot_plate_temp_initial_layer": [
-        "45"
+        "55"
     ],
     "inherits": "Generic TPU @System",
     "is_custom_defined": "0",
@@ -20,6 +47,9 @@
     ],
     "nozzle_temperature_initial_layer": [
         "220"
+    ],
+    "slow_down_layer_time": [
+        "5"
     ],
     "version": "2.3.0.3"
 }
