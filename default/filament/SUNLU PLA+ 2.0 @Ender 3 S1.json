@@ -1,13 +1,4 @@
 {
-    "compatible_printers": [
-        "MyKlipper 0.4 nozzle"
-    ],
-    "dont_slow_down_outer_wall": [
-        "1"
-    ],
-    "fan_min_speed": [
-        "50"
-    ],
     "filament_flow_ratio": [
         "0.925"
     ],
@@ -26,9 +17,6 @@
     ],
     "nozzle_temperature_initial_layer": [
         "205"
-    ],
-    "slow_down_min_speed": [
-        "40"
     ],
     "version": "2.3.0.3"
 }
