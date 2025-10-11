@@ -15,7 +15,7 @@
         "20"
     ],
     "filament_flow_ratio": [
-        "1"
+        "0.9"
     ],
     "filament_settings_id": [
         "Elegoo PETG @Ender 3 S1"
@@ -26,6 +26,12 @@
     "from": "User",
     "full_fan_speed_layer": [
         "5"
+    ],
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
     ],
     "inherits": "SUNLU PETG @System",
     "is_custom_defined": "0",
