@@ -5,14 +5,26 @@
     "compatible_printers": [
         "MyKlipper 0.4 nozzle"
     ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
     "fan_cooling_layer_time": [
         "60"
     ],
     "fan_max_speed": [
-        "50"
+        "100"
     ],
     "fan_min_speed": [
         "20"
+    ],
+    "filament_deretraction_speed": [
+        "60"
+    ],
+    "filament_retraction_length": [
+        "3"
+    ],
+    "filament_retraction_speed": [
+        "60"
     ],
     "filament_settings_id": [
         "Elegoo PETG @Ender 3 S1"
@@ -43,7 +55,7 @@
         "100"
     ],
     "slow_down_layer_time": [
-        "10"
+        "1"
     ],
     "version": "2.3.0.3"
 }
