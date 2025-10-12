@@ -8,6 +8,9 @@
     "dont_slow_down_outer_wall": [
         "1"
     ],
+    "enable_pressure_advance": [
+        "1"
+    ],
     "fan_cooling_layer_time": [
         "60"
     ],
@@ -17,14 +20,8 @@
     "fan_min_speed": [
         "20"
     ],
-    "filament_deretraction_speed": [
-        "60"
-    ],
     "filament_retraction_length": [
         "3"
-    ],
-    "filament_retraction_speed": [
-        "60"
     ],
     "filament_settings_id": [
         "Elegoo PETG @Ender 3 S1"
@@ -53,6 +50,9 @@
     ],
     "overhang_fan_speed": [
         "100"
+    ],
+    "pressure_advance": [
+        "0.07"
     ],
     "slow_down_layer_time": [
         "1"

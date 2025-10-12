@@ -2,6 +2,9 @@
     "compatible_printers": [
         "MyKlipper 0.4 nozzle"
     ],
+    "enable_pressure_advance": [
+        "1"
+    ],
     "filament_settings_id": [
         "SUNLU PETG @Ender 3 S1"
     ],
@@ -11,6 +14,9 @@
     "name": "SUNLU PETG @Ender 3 S1",
     "nozzle_temperature": [
         "250"
+    ],
+    "pressure_advance": [
+        "0.07"
     ],
     "version": "2.3.0.3"
 }
