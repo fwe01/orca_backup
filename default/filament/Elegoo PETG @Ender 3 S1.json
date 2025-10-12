@@ -14,9 +14,6 @@
     "fan_min_speed": [
         "20"
     ],
-    "filament_flow_ratio": [
-        "0.9"
-    ],
     "filament_settings_id": [
         "Elegoo PETG @Ender 3 S1"
     ],
