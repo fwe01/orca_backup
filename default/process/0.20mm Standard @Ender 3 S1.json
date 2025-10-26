@@ -1,5 +1,7 @@
 {
     "bottom_shell_layers": "4",
+    "bridge_flow": "1.4",
+    "bridge_speed": "30",
     "brim_type": "no_brim",
     "default_acceleration": "2000",
     "from": "User",
@@ -8,6 +10,7 @@
     "initial_layer_infill_speed": "70",
     "inner_wall_acceleration": "2000",
     "inner_wall_speed": "150",
+    "internal_bridge_flow": "1.4",
     "internal_solid_infill_speed": "150",
     "is_custom_defined": "0",
     "name": "0.20mm Standard @Ender 3 S1",
@@ -29,6 +32,6 @@
     "travel_acceleration": "2500",
     "travel_speed": "200",
     "version": "2.3.0.3",
-    "wall_loops": "4",
+    "wall_loops": "2",
     "wall_sequence": "outer wall/inner wall"
 }
