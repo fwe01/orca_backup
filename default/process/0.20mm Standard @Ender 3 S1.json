@@ -1,7 +1,8 @@
 {
+    "accel_to_decel_enable": "0",
     "bottom_shell_layers": "4",
     "bridge_flow": "1.4",
-    "bridge_speed": "30",
+    "bridge_speed": "25",
     "brim_type": "no_brim",
     "default_acceleration": "2000",
     "from": "User",
