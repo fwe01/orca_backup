@@ -39,6 +39,6 @@
     "travel_speed": "200",
     "tree_support_branch_angle_organic": "60",
     "version": "2.3.0.3",
-    "wall_loops": "2",
+    "wall_loops": "4",
     "wall_sequence": "outer wall/inner wall"
 }
