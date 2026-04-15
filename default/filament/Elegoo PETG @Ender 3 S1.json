@@ -23,8 +23,11 @@
     "filament_deretraction_speed": [
         "25"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_retraction_length": [
-        "1.8"
+        "1"
     ],
     "filament_retraction_speed": [
         "25"
@@ -46,7 +49,6 @@
         "70"
     ],
     "inherits": "SUNLU PETG @System",
-    "is_custom_defined": "0",
     "name": "Elegoo PETG @Ender 3 S1",
     "nozzle_temperature": [
         "230"
