@@ -27,7 +27,7 @@
         "Direct Drive Standard"
     ],
     "filament_retraction_length": [
-        "1"
+        "1.4"
     ],
     "filament_retraction_speed": [
         "25"
