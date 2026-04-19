@@ -1,19 +1,15 @@
 {
-    "dont_slow_down_outer_wall": [
-        "1"
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
     ],
     "filament_flow_ratio": [
-        "0.925"
+        "0.93"
     ],
     "filament_settings_id": [
         "SUNLU PLA+ 2.0 @Ender 3 S1"
     ],
     "from": "User",
-    "full_fan_speed_layer": [
-        "4"
-    ],
     "inherits": "SUNLU PLA+ 2.0 @System",
-    "is_custom_defined": "0",
     "name": "SUNLU PLA+ 2.0 @Ender 3 S1",
     "nozzle_temperature": [
         "205"
