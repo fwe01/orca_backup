@@ -51,10 +51,10 @@
     "inherits": "SUNLU PETG @System",
     "name": "Elegoo PETG @Ender 3 S1",
     "nozzle_temperature": [
-        "230"
+        "220"
     ],
     "nozzle_temperature_initial_layer": [
-        "230"
+        "220"
     ],
     "overhang_fan_speed": [
         "100"
