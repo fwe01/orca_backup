@@ -1,6 +1,7 @@
 {
     "accel_to_decel_enable": "0",
     "bottom_shell_layers": "4",
+    "bridge_flow": "0.98",
     "bridge_speed": "20",
     "brim_type": "no_brim",
     "default_acceleration": "2000",
@@ -11,6 +12,7 @@
     "initial_layer_infill_speed": "70",
     "inner_wall_acceleration": "2000",
     "inner_wall_speed": "80",
+    "internal_bridge_flow": "0.98",
     "internal_bridge_speed": "35",
     "internal_solid_infill_speed": "120",
     "name": "0.20mm Standard @Ender 3 S1",
@@ -26,6 +28,7 @@
         "Direct Drive Standard"
     ],
     "print_settings_id": "0.20mm Standard @Ender 3 S1",
+    "set_other_flow_ratios": "1",
     "skirt_distance": "5",
     "skirt_height": "1",
     "skirt_loops": "3",
@@ -34,7 +37,7 @@
     "support_base_pattern": "hollow",
     "support_bottom_interface_spacing": "0.15",
     "support_interface_spacing": "0.15",
-    "support_line_width": "0.25",
+    "support_line_width": "90%",
     "support_remove_small_overhang": "0",
     "support_speed": "120",
     "support_style": "snug",
