@@ -9,6 +9,12 @@
         "SUNLU PLA+ 2.0 @Ender 3 S1"
     ],
     "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
     "inherits": "SUNLU PLA+ 2.0 @System",
     "name": "SUNLU PLA+ 2.0 @Ender 3 S1",
     "nozzle_temperature": [
