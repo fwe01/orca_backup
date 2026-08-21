@@ -33,9 +33,9 @@
     "print_host": "192.168.200.100:7125",
     "printable_area": [
         "0x0",
-        "235x0",
-        "235x235",
-        "0x235"
+        "230x0",
+        "230x225",
+        "0x225"
     ],
     "printable_height": "240",
     "printer_extruder_id": [
